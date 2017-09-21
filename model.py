@@ -6,7 +6,8 @@ from random import shuffle
 import sklearn
 
 
-data_size_limit = 9
+
+data_size_limit = 99999999
 use_generator = True 
 use_drop_out = True
 nb_epoch = 5
